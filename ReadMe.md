@@ -8,7 +8,9 @@ get purchases list
 
 url : https://riddhasoftchris.github.io/fake-api/purchases.json
 
-response example: [
+response example: 
+
+[
   {
     "poNo": "67-548-3215",
     "poDate": "12/25/2022",
@@ -25,7 +27,9 @@ response example: [
 
   url :  https://riddhasoftchris.github.io/fake-api/items.json
 
-  response example : [
+  response example : 
+  
+  [
   {
     "itemName": "Amaretto",
     "group": "Leader Arthritis Pain",
@@ -39,8 +43,10 @@ response example: [
   get gatepass list
 
   url :  https://riddhasoftchris.github.io/fake-api/gatepass.json
+
+  response example : 
   
-  response example : [
+  [
   {
             "gpNo": "36-471-8423",
             "gpDate": "2/4/2023",
