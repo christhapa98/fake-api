@@ -5,7 +5,9 @@ This repository contains a fake API for demonstration purposes only.
 To use the API, make a GET request to the following endpoint:
 
 get purchases list
+
 url : https://riddhasoftchris.github.io/fake-api/purchases.json
+
 response example: [
   {
     "poNo": "67-548-3215",
@@ -16,10 +18,13 @@ response example: [
     "uom": 8,
     "quantity": 22,
     "netAmount": 96
-  }]
+  }
+  ]
 
   get items list
+
   url :  https://riddhasoftchris.github.io/fake-api/items.json
+
   response example : [
   {
     "itemName": "Amaretto",
@@ -32,7 +37,9 @@ response example: [
   }]
 
   get gatepass list
+
   url :  https://riddhasoftchris.github.io/fake-api/gatepass.json
+  
   response example : [
   {
             "gpNo": "36-471-8423",
