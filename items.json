@@ -1,0 +1,290 @@
+    [
+        {
+            "itemName": "Amaretto",
+            "group": "Leader Arthritis Pain",
+            "openingStock": 1,
+            "uom": "5790",
+            "salesPrice": 1,
+            "itemStatus": true,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Sausage - Meat",
+            "group": "Propranolol Hydrochloride",
+            "openingStock": 2,
+            "uom": "898",
+            "salesPrice": 2,
+            "itemStatus": false,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Wine - Chablis J Moreau Et Fils",
+            "group": "Cyclogyl",
+            "openingStock": 3,
+            "uom": "5102",
+            "salesPrice": 3,
+            "itemStatus": false,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Bread Crumbs - Panko",
+            "group": "Free Radical",
+            "openingStock": 4,
+            "uom": "77083",
+            "salesPrice": 4,
+            "itemStatus": true,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Tomatoes - Cherry",
+            "group": "Isopropyl Alcohol",
+            "openingStock": 5,
+            "uom": "53",
+            "salesPrice": 5,
+            "itemStatus": false,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Peach - Halves",
+            "group": "Treatment Set TS346791",
+            "openingStock": 6,
+            "uom": "454",
+            "salesPrice": 6,
+            "itemStatus": true,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Wine - White, French Cross",
+            "group": "Clonazepam",
+            "openingStock": 7,
+            "uom": "1",
+            "salesPrice": 7,
+            "itemStatus": false,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Soup - Campbells Tomato Ravioli",
+            "group": "Lorazepam",
+            "openingStock": 8,
+            "uom": "8",
+            "salesPrice": 8,
+            "itemStatus": false,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Foam Dinner Plate",
+            "group": "Cetirizine Hydrochloride",
+            "openingStock": 9,
+            "uom": "16",
+            "salesPrice": 9,
+            "itemStatus": false,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Soup Campbells Mexicali Tortilla",
+            "group": "Lady Speed Stick",
+            "openingStock": 10,
+            "uom": "117",
+            "salesPrice": 10,
+            "itemStatus": true,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "V8 - Vegetable Cocktail",
+            "group": "Biotox Para",
+            "openingStock": 11,
+            "uom": "418",
+            "salesPrice": 11,
+            "itemStatus": true,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Nori Sea Weed - Gold Label",
+            "group": "Dovonex",
+            "openingStock": 12,
+            "uom": "5",
+            "salesPrice": 12,
+            "itemStatus": true,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Cheese - Goat",
+            "group": "Abelmoschus",
+            "openingStock": 13,
+            "uom": "8",
+            "salesPrice": 13,
+            "itemStatus": false,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Red Snapper - Fresh, Whole",
+            "group": "OP Dark Formula Xtreme Tanning 4",
+            "openingStock": 14,
+            "uom": "9091",
+            "salesPrice": 14,
+            "itemStatus": true,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Rum - Cream, Amarula",
+            "group": "Sunmark Camphor Spirit",
+            "openingStock": 15,
+            "uom": "3805",
+            "salesPrice": 15,
+            "itemStatus": true,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Country Roll",
+            "group": "Morphine Sulfate",
+            "openingStock": 16,
+            "uom": "861",
+            "salesPrice": 16,
+            "itemStatus": true,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Energy Drink Bawls",
+            "group": "Hydrochlorothiazide",
+            "openingStock": 17,
+            "uom": "055",
+            "salesPrice": 17,
+            "itemStatus": true,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Tomatoes - Hot House",
+            "group": "Medroxyprogesterone Acetate",
+            "openingStock": 18,
+            "uom": "63097",
+            "salesPrice": 18,
+            "itemStatus": true,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Fish - Artic Char, Cold Smoked",
+            "group": "Up and Up Sinus and Cold D",
+            "openingStock": 19,
+            "uom": "0187",
+            "salesPrice": 19,
+            "itemStatus": false,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Trout - Smoked",
+            "group": "SHISEIDO SHEER AND PERFECT FOUNDATION",
+            "openingStock": 20,
+            "uom": "89298",
+            "salesPrice": 20,
+            "itemStatus": true,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Pasta - Fusili, Dry",
+            "group": "Nitro-Time",
+            "openingStock": 21,
+            "uom": "06",
+            "salesPrice": 21,
+            "itemStatus": false,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Beans - Kidney White",
+            "group": "donepezil hydrochloride",
+            "openingStock": 22,
+            "uom": "2",
+            "salesPrice": 22,
+            "itemStatus": true,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Extract - Almond",
+            "group": "INSTANT Hand Sanitizer Extra Enriched With Vitamin E Lemon Fresh Scent",
+            "openingStock": 23,
+            "uom": "99480",
+            "salesPrice": 23,
+            "itemStatus": false,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Trueblue - Blueberry 12x473ml",
+            "group": "Simvastatin",
+            "openingStock": 24,
+            "uom": "901",
+            "salesPrice": 24,
+            "itemStatus": true,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Wine - Fontanafredda Barolo",
+            "group": "Tussin Cough Long Acting",
+            "openingStock": 25,
+            "uom": "77",
+            "salesPrice": 25,
+            "itemStatus": true,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Lid Coffee Cup 8oz Blk",
+            "group": "Australian Gold",
+            "openingStock": 26,
+            "uom": "5",
+            "salesPrice": 26,
+            "itemStatus": false,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Calvados - Boulard",
+            "group": "DICLOFENAC SODIUM",
+            "openingStock": 27,
+            "uom": "0652",
+            "salesPrice": 27,
+            "itemStatus": true,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Apples - Sliced / Wedge",
+            "group": "Grapefruit",
+            "openingStock": 28,
+            "uom": "93",
+            "salesPrice": 28,
+            "itemStatus": true,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Steampan - Lid For Half Size",
+            "group": "Antibacterial Hand Polar Mint and Arctic Blast",
+            "openingStock": 29,
+            "uom": "06643",
+            "salesPrice": 29,
+            "itemStatus": false,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Dikon",
+            "group": "Prochlorperazine Maleate",
+            "openingStock": 30,
+            "uom": "31577",
+            "salesPrice": 30,
+            "itemStatus": false,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Veal - Leg, Provimi - 50 Lb Max",
+            "group": "Carisoprodol",
+            "openingStock": 31,
+            "uom": "924",
+            "salesPrice": 31,
+            "itemStatus": false,
+            "taxCategory": "13 % Vat"
+        },
+        {
+            "itemName": "Lamb - Whole Head Off,nz",
+            "group": "Aveeno Clear Complexion Cleansing Bar",
+            "openingStock": 100,
+            "uom": "30666",
+            "salesPrice": 100,
+            "itemStatus": false,
+            "taxCategory": "13 % Vat"
+        }
+    ]
