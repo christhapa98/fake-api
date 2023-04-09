@@ -4,7 +4,7 @@
     "name": "Tabbie",
     "localRate": 97,
     "exportRate": 40,
-    "salesAcount": 1,
+    "salesAccount": 1,
     "purchaseAccount": 1
   }, {
     "id": 2,
@@ -12,7 +12,7 @@
     "name": "Amata",
     "localRate": 43,
     "exportRate": 36,
-    "salesAcount": 2,
+    "salesAccount": 2,
     "purchaseAccount": 2
   }, {
     "id": 3,
@@ -20,7 +20,7 @@
     "name": "Rochelle",
     "localRate": 44,
     "exportRate": 2,
-    "salesAcount": 3,
+    "salesAccount": 3,
     "purchaseAccount": 3
   }, {
     "id": 4,
@@ -28,7 +28,7 @@
     "name": "Ardys",
     "localRate": 13,
     "exportRate": 70,
-    "salesAcount": 4,
+    "salesAccount": 4,
     "purchaseAccount": 4
   }, {
     "id": 5,
@@ -36,7 +36,7 @@
     "name": "Tomasina",
     "localRate": 62,
     "exportRate": 92,
-    "salesAcount": 5,
+    "salesAccount": 5,
     "purchaseAccount": 5
   }, {
     "id": 6,
@@ -44,7 +44,7 @@
     "name": "Brucie",
     "localRate": 20,
     "exportRate": 84,
-    "salesAcount": 6,
+    "salesAccount": 6,
     "purchaseAccount": 6
   }, {
     "id": 7,
@@ -52,7 +52,7 @@
     "name": "Cahra",
     "localRate": 9,
     "exportRate": 51,
-    "salesAcount": 7,
+    "salesAccount": 7,
     "purchaseAccount": 7
   }, {
     "id": 8,
@@ -60,7 +60,7 @@
     "name": "Darcee",
     "localRate": 33,
     "exportRate": 83,
-    "salesAcount": 8,
+    "salesAccount": 8,
     "purchaseAccount": 8
   }, {
     "id": 9,
@@ -68,7 +68,7 @@
     "name": "Tabbi",
     "localRate": 10,
     "exportRate": 60,
-    "salesAcount": 9,
+    "salesAccount": 9,
     "purchaseAccount": 9
   }, {
     "id": 10,
@@ -76,7 +76,7 @@
     "name": "Grantham",
     "localRate": 37,
     "exportRate": 88,
-    "salesAcount": 10,
+    "salesAccount": 10,
     "purchaseAccount": 10
   }, {
     "id": 11,
@@ -84,7 +84,7 @@
     "name": "Heinrik",
     "localRate": 65,
     "exportRate": 27,
-    "salesAcount": 11,
+    "salesAccount": 11,
     "purchaseAccount": 11
   }, {
     "id": 12,
@@ -92,7 +92,7 @@
     "name": "Fifi",
     "localRate": 12,
     "exportRate": 49,
-    "salesAcount": 12,
+    "salesAccount": 12,
     "purchaseAccount": 12
   }, {
     "id": 13,
@@ -100,7 +100,7 @@
     "name": "Kimberlee",
     "localRate": 82,
     "exportRate": 95,
-    "salesAcount": 13,
+    "salesAccount": 13,
     "purchaseAccount": 13
   }, {
     "id": 14,
@@ -108,7 +108,7 @@
     "name": "Zachary",
     "localRate": 28,
     "exportRate": 22,
-    "salesAcount": 14,
+    "salesAccount": 14,
     "purchaseAccount": 14
   }, {
     "id": 15,
@@ -116,7 +116,7 @@
     "name": "Ulla",
     "localRate": 31,
     "exportRate": 85,
-    "salesAcount": 15,
+    "salesAccount": 15,
     "purchaseAccount": 15
   }, {
     "id": 16,
@@ -124,7 +124,7 @@
     "name": "Giffy",
     "localRate": 46,
     "exportRate": 67,
-    "salesAcount": 16,
+    "salesAccount": 16,
     "purchaseAccount": 16
   }, {
     "id": 17,
@@ -132,7 +132,7 @@
     "name": "Margeaux",
     "localRate": 75,
     "exportRate": 21,
-    "salesAcount": 17,
+    "salesAccount": 17,
     "purchaseAccount": 17
   }, {
     "id": 18,
@@ -140,7 +140,7 @@
     "name": "Betsey",
     "localRate": 8,
     "exportRate": 60,
-    "salesAcount": 18,
+    "salesAccount": 18,
     "purchaseAccount": 18
   }, {
     "id": 19,
@@ -148,7 +148,7 @@
     "name": "Chaddy",
     "localRate": 62,
     "exportRate": 5,
-    "salesAcount": 19,
+    "salesAccount": 19,
     "purchaseAccount": 19
   }, {
     "id": 20,
@@ -156,7 +156,7 @@
     "name": "Vonnie",
     "localRate": 52,
     "exportRate": 39,
-    "salesAcount": 20,
+    "salesAccount": 20,
     "purchaseAccount": 20
   }, {
     "id": 21,
@@ -164,7 +164,7 @@
     "name": "Linnie",
     "localRate": 52,
     "exportRate": 11,
-    "salesAcount": 21,
+    "salesAccount": 21,
     "purchaseAccount": 21
   }, {
     "id": 22,
@@ -172,7 +172,7 @@
     "name": "Marci",
     "localRate": 63,
     "exportRate": 78,
-    "salesAcount": 22,
+    "salesAccount": 22,
     "purchaseAccount": 22
   }, {
     "id": 23,
@@ -180,7 +180,7 @@
     "name": "Bette-ann",
     "localRate": 11,
     "exportRate": 46,
-    "salesAcount": 23,
+    "salesAccount": 23,
     "purchaseAccount": 23
   }, {
     "id": 24,
@@ -188,7 +188,7 @@
     "name": "Marylee",
     "localRate": 24,
     "exportRate": 19,
-    "salesAcount": 24,
+    "salesAccount": 24,
     "purchaseAccount": 24
   }, {
     "id": 25,
@@ -196,7 +196,7 @@
     "name": "Celinda",
     "localRate": 14,
     "exportRate": 69,
-    "salesAcount": 25,
+    "salesAccount": 25,
     "purchaseAccount": 25
   }, {
     "id": 26,
@@ -204,7 +204,7 @@
     "name": "Tiler",
     "localRate": 79,
     "exportRate": 21,
-    "salesAcount": 26,
+    "salesAccount": 26,
     "purchaseAccount": 26
   }, {
     "id": 27,
@@ -212,7 +212,7 @@
     "name": "Clarinda",
     "localRate": 62,
     "exportRate": 51,
-    "salesAcount": 27,
+    "salesAccount": 27,
     "purchaseAccount": 27
   }, {
     "id": 28,
@@ -220,7 +220,7 @@
     "name": "Kelby",
     "localRate": 55,
     "exportRate": 22,
-    "salesAcount": 28,
+    "salesAccount": 28,
     "purchaseAccount": 28
   }, {
     "id": 29,
@@ -228,7 +228,7 @@
     "name": "Nolana",
     "localRate": 61,
     "exportRate": 35,
-    "salesAcount": 29,
+    "salesAccount": 29,
     "purchaseAccount": 29
   }, {
     "id": 30,
@@ -236,7 +236,7 @@
     "name": "Opaline",
     "localRate": 94,
     "exportRate": 6,
-    "salesAcount": 30,
+    "salesAccount": 30,
     "purchaseAccount": 30
   }, {
     "id": 31,
@@ -244,7 +244,7 @@
     "name": "Binni",
     "localRate": 91,
     "exportRate": 19,
-    "salesAcount": 31,
+    "salesAccount": 31,
     "purchaseAccount": 31
   }, {
     "id": 32,
@@ -252,7 +252,7 @@
     "name": "Chrisy",
     "localRate": 86,
     "exportRate": 4,
-    "salesAcount": 32,
+    "salesAccount": 32,
     "purchaseAccount": 32
   }, {
     "id": 33,
@@ -260,7 +260,7 @@
     "name": "Kerwin",
     "localRate": 96,
     "exportRate": 5,
-    "salesAcount": 33,
+    "salesAccount": 33,
     "purchaseAccount": 33
   }, {
     "id": 34,
@@ -268,7 +268,7 @@
     "name": "Janet",
     "localRate": 38,
     "exportRate": 50,
-    "salesAcount": 34,
+    "salesAccount": 34,
     "purchaseAccount": 34
   }, {
     "id": 35,
@@ -276,7 +276,7 @@
     "name": "Selle",
     "localRate": 100,
     "exportRate": 4,
-    "salesAcount": 35,
+    "salesAccount": 35,
     "purchaseAccount": 35
   }, {
     "id": 36,
@@ -284,7 +284,7 @@
     "name": "Gregoire",
     "localRate": 42,
     "exportRate": 74,
-    "salesAcount": 36,
+    "salesAccount": 36,
     "purchaseAccount": 36
   }, {
     "id": 37,
@@ -292,7 +292,7 @@
     "name": "Elliott",
     "localRate": 56,
     "exportRate": 60,
-    "salesAcount": 37,
+    "salesAccount": 37,
     "purchaseAccount": 37
   }, {
     "id": 38,
@@ -300,7 +300,7 @@
     "name": "Alikee",
     "localRate": 5,
     "exportRate": 75,
-    "salesAcount": 38,
+    "salesAccount": 38,
     "purchaseAccount": 38
   }, {
     "id": 39,
@@ -308,7 +308,7 @@
     "name": "Valaree",
     "localRate": 36,
     "exportRate": 100,
-    "salesAcount": 39,
+    "salesAccount": 39,
     "purchaseAccount": 39
   }, {
     "id": 40,
@@ -316,7 +316,7 @@
     "name": "Casi",
     "localRate": 73,
     "exportRate": 63,
-    "salesAcount": 40,
+    "salesAccount": 40,
     "purchaseAccount": 40
   }, {
     "id": 41,
@@ -324,7 +324,7 @@
     "name": "Ebeneser",
     "localRate": 29,
     "exportRate": 46,
-    "salesAcount": 41,
+    "salesAccount": 41,
     "purchaseAccount": 41
   }, {
     "id": 42,
@@ -332,7 +332,7 @@
     "name": "Kaitlyn",
     "localRate": 40,
     "exportRate": 6,
-    "salesAcount": 42,
+    "salesAccount": 42,
     "purchaseAccount": 42
   }, {
     "id": 43,
@@ -340,7 +340,7 @@
     "name": "Malissa",
     "localRate": 27,
     "exportRate": 16,
-    "salesAcount": 43,
+    "salesAccount": 43,
     "purchaseAccount": 43
   }, {
     "id": 44,
@@ -348,7 +348,7 @@
     "name": "Sammy",
     "localRate": 45,
     "exportRate": 9,
-    "salesAcount": 44,
+    "salesAccount": 44,
     "purchaseAccount": 44
   }, {
     "id": 45,
@@ -356,7 +356,7 @@
     "name": "Albert",
     "localRate": 83,
     "exportRate": 73,
-    "salesAcount": 45,
+    "salesAccount": 45,
     "purchaseAccount": 45
   }, {
     "id": 46,
@@ -364,7 +364,7 @@
     "name": "Thom",
     "localRate": 52,
     "exportRate": 93,
-    "salesAcount": 46,
+    "salesAccount": 46,
     "purchaseAccount": 46
   }, {
     "id": 47,
@@ -372,7 +372,7 @@
     "name": "Hubie",
     "localRate": 48,
     "exportRate": 68,
-    "salesAcount": 47,
+    "salesAccount": 47,
     "purchaseAccount": 47
   }, {
     "id": 48,
@@ -380,7 +380,7 @@
     "name": "Antin",
     "localRate": 50,
     "exportRate": 47,
-    "salesAcount": 48,
+    "salesAccount": 48,
     "purchaseAccount": 48
   }, {
     "id": 49,
@@ -388,7 +388,7 @@
     "name": "Catlee",
     "localRate": 20,
     "exportRate": 7,
-    "salesAcount": 49,
+    "salesAccount": 49,
     "purchaseAccount": 49
   }, {
     "id": 50,
@@ -396,7 +396,7 @@
     "name": "Kaela",
     "localRate": 30,
     "exportRate": 11,
-    "salesAcount": 50,
+    "salesAccount": 50,
     "purchaseAccount": 50
   }, {
     "id": 51,
@@ -404,7 +404,7 @@
     "name": "Goldi",
     "localRate": 22,
     "exportRate": 85,
-    "salesAcount": 51,
+    "salesAccount": 51,
     "purchaseAccount": 51
   }, {
     "id": 52,
@@ -412,7 +412,7 @@
     "name": "Savina",
     "localRate": 90,
     "exportRate": 1,
-    "salesAcount": 52,
+    "salesAccount": 52,
     "purchaseAccount": 52
   }]
   
